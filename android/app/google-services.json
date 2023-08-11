@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "869070338639",
+    "project_id": "authtutorial-f7977",
+    "storage_bucket": "authtutorial-f7977.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869070338639:android:d4e1b03051e1240acb483a",
+        "android_client_info": {
+          "package_name": "com.example.chat_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869070338639-jg2rr93m4gchpc7m0irlp00gndge7bfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZgzP_i5Q_8TpxWiY6UBsa2KcPG9xS9l4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869070338639-jg2rr93m4gchpc7m0irlp00gndge7bfv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "869070338639-711h5u4lgvuvi2k38ga5u389b8qt7sb6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatNotification"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869070338639:android:9a1703a82d124d36cb483a",
+        "android_client_info": {
+          "package_name": "com.example.socket_io_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869070338639-jg2rr93m4gchpc7m0irlp00gndge7bfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZgzP_i5Q_8TpxWiY6UBsa2KcPG9xS9l4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869070338639-jg2rr93m4gchpc7m0irlp00gndge7bfv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "869070338639-711h5u4lgvuvi2k38ga5u389b8qt7sb6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatNotification"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
